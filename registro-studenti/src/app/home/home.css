@@ -1,0 +1,30 @@
+/* Hero Jumbotron Centrato */
+.bg-body-tertiary {
+  background: var(--surface) !important;
+  border: 1px solid var(--border) !important;
+  border-radius: var(--radius-lg) !important;
+  box-shadow: var(--shadow-md);
+  text-align: center;
+  padding: 3.5rem 2rem !important;
+  margin-top: 1rem;
+}
+
+.bg-body-tertiary h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: var(--text-main);
+  margin-bottom: 0.75rem;
+}
+
+.bg-body-tertiary .lead {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+}
+
+.h4 {
+  font-weight: 700;
+  color: var(--text-main);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
